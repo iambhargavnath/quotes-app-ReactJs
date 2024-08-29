@@ -1,0 +1,23 @@
+.update-quote {
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+  }
+  
+  .update-quote .form-group {
+    margin-bottom: 15px;
+  }
+  
+  .update-quote .form-control {
+    width: 100%;
+  }
+  
+  .update-quote .btn-primary {
+    display: block;
+    width: 100%;
+    margin-top: 20px;
+  }
+  

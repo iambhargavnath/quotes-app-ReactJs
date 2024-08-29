@@ -1,0 +1,43 @@
+.quote {
+  position: relative;
+  background-color: #f9f9f9;
+  border: 1px solid #ddd;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 5px;
+  width: 80%;
+  max-width: 600px;
+  text-align: left;
+}
+
+.quote p {
+  font-size: 1.2em;
+}
+
+.quote footer {
+  margin-top: 10px;
+  font-size: 0.9em;
+  color: #555;
+}
+
+.delete-button {
+  background-color: whitesmoke !important;
+  color: black !important;
+  margin-top: 10px;
+}
+
+.delete-button:hover {
+  background-color: red !important;
+  color: white !important;
+}
+
+.edit-button {
+  background-color: gray !important;
+  color: black !important;
+  margin-top: 10px;
+}
+
+.edit-button:hover {
+  background-color: green !important;
+  color: white !important;
+}
