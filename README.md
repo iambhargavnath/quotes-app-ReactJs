@@ -1,4 +1,5 @@
-# This is the FrontEnd of the QuotesAPI-Springboot, QuotesAPI-NodeJs and QuotesAPI-Laravel.
+# Quotes App - ReactJs
+This is the FrontEnd of the QuotesAPI-Springboot, QuotesAPI-NodeJs and QuotesAPI-Laravel.
 
 # Getting Started with React App
 
